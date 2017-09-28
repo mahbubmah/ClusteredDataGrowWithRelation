@@ -7,7 +7,14 @@ namespace CustomDataSet.Model
 {
     public class CusDataRow
     {
-       
+        private CusDataRow()
+        {
+        }
+
+        public static CusDataRow NewDataRow()
+        {
+
+        }
     }
 
     public class Cell

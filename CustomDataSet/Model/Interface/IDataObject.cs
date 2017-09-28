@@ -6,7 +6,7 @@ using CustomDataSet.Model.EnumColleciton;
 
 namespace CustomDataSet.Model.Interface
 {
-    interface IDataContainerObject
+    public interface IDataContainerObject
     {
         string Name { get;  }
         string OjbectId { get; }

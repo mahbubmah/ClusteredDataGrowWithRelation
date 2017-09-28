@@ -6,3 +6,9 @@ C:\Users\mahbub\Documents\Visual Studio 2013\Projects\CustomDataSet\CustomDataSe
 C:\Users\mahbub\Documents\Visual Studio 2013\Projects\CustomDataSet\CustomDataSet\obj\Debug\CustomDataSet.csproj.GenerateResource.Cache
 C:\Users\mahbub\Documents\Visual Studio 2013\Projects\CustomDataSet\CustomDataSet\obj\Debug\CustomDataSet.exe
 C:\Users\mahbub\Documents\Visual Studio 2013\Projects\CustomDataSet\CustomDataSet\obj\Debug\CustomDataSet.pdb
+E:\Kamrul\CustomDataSet\ClusteredDataGrowWithRelation\CustomDataSet\bin\Debug\CustomDataSet.exe.config
+E:\Kamrul\CustomDataSet\ClusteredDataGrowWithRelation\CustomDataSet\obj\Debug\CustomDataSet.exe
+E:\Kamrul\CustomDataSet\ClusteredDataGrowWithRelation\CustomDataSet\obj\Debug\CustomDataSet.pdb
+E:\Kamrul\CustomDataSet\ClusteredDataGrowWithRelation\CustomDataSet\obj\Debug\CustomDataSet.csprojResolveAssemblyReference.cache
+E:\Kamrul\CustomDataSet\ClusteredDataGrowWithRelation\CustomDataSet\obj\Debug\CustomDataSet.Properties.Resources.resources
+E:\Kamrul\CustomDataSet\ClusteredDataGrowWithRelation\CustomDataSet\obj\Debug\CustomDataSet.csproj.GenerateResource.Cache

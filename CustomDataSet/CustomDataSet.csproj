@@ -50,13 +50,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Helper\ObjectHelper.cs" />
+    <Compile Include="Model\Core\BaseDataObjectColleciton.cs" />
     <Compile Include="Model\Core\DataContainerObject.cs" />
     <Compile Include="Model\Core\DataObjectCreationParamModel.cs" />
     <Compile Include="Model\CusDataColumn.cs" />
     <Compile Include="Model\CusDataRow.cs" />
     <Compile Include="Model\CusDataSet.cs" />
     <Compile Include="Model\CusDataTable.cs" />
+    <Compile Include="Model\DataColumnCollection.cs" />
+    <Compile Include="Model\DataRowCollection.cs" />
     <Compile Include="Model\EnumColleciton\CusDataEnum.cs" />
+    <Compile Include="Model\Interface\IDataObjectCollection.cs" />
     <Compile Include="Model\Interface\IDataObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -25,6 +25,8 @@ namespace CustomDataSet.Model.Core
         /// </summary>
         private DataContainerObject()
         {
+            
+
         }
         /// <summary>
         /// Create new Data object like Table,Column,Row,Relation etc

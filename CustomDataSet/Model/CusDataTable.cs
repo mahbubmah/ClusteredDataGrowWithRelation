@@ -9,7 +9,8 @@ namespace CustomDataSet.Model
 {
    public class CusDataTable : DataContainerObject
     {
-       List<CusDataColumn> DataColumns { get; set; } 
+       DataColumnCollection Columns { get; set; }
+       DataRowCollection Rows { get; set; } 
        /// <summary>
        /// Constructor for CusDataTable
        /// </summary>
